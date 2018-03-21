@@ -1,0 +1,5 @@
+.terraform
+secrets/
+plan.tfplan
+terraform.tfstate.backup
+terraform.tfstate
