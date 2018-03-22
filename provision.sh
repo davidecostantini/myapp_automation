@@ -50,3 +50,6 @@ then
 fi
 echo "COMPLETED!"
 echo ""
+
+
+echo "Now please go to "http://$(terraform output endpoint)" to check the application!"
